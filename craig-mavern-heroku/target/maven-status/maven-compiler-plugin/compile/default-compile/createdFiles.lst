@@ -1,0 +1,14 @@
+com/mycompany/app/Users/UserService.class
+com/mycompany/app/MyCookieStore.class
+com/mycompany/app/AuthController.class
+com/mycompany/app/Users/Users.class
+com/mycompany/app/Teams/TeamController.class
+com/mycompany/app/GreetingController.class
+com/mycompany/app/Users/UserController.class
+com/mycompany/app/Teams/TeamService.class
+com/mycompany/app/Persons/PersonService.class
+com/mycompany/app/Persons/PersonController.class
+com/mycompany/app/SendData.class
+com/mycompany/app/Persons/AddressController.class
+com/mycompany/app/Application.class
+com/mycompany/app/Persons/Persons.class
